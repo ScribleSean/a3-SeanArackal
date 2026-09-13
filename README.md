@@ -1,3 +1,5 @@
+> **Coursework archive:** The organized copy is now in [ScribleSean/wpi](https://github.com/ScribleSean/wpi/tree/main/courses/cs4241/assignments/a3). This repository is retained for its original history and attribution. The consolidated copy omits local configuration and generated files; see its import manifest for details.
+
 Assignment 3 - Persistence: Two-tier Web Application with Database, Express server, and CSS template
 ---
 
